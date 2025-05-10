@@ -2,6 +2,7 @@
 A web based application that utilizes NLP to cluster input documents based on term frequency, and builds an MDS plot for visualization.
 
 Structure:
+
 ├── Index.html           # Frontend HTML interface
 ├── styles.css           # Styling for interface and MDS viewer
 ├── script.js            # Handles clustering logic, drag/drop UI, D3 plot, AJAX
